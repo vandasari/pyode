@@ -1,6 +1,6 @@
 # pyode
 
-Ordinary differential equations solvers.
+Python library to solve ordinary differential equations (ODEs). The first version is only for explicit ODEs. This library is still in progress. Next thing to do is pytest.
 
 ## Installation
 

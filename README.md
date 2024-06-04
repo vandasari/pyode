@@ -1,6 +1,6 @@
 # pyode
 
-Solvers for sordinary differential equations
+Ordinary differential equations solvers.
 
 ## Installation
 

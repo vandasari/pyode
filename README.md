@@ -11,7 +11,6 @@ $ pip install pyode
 ## Usage
 
 - TODO
-- Unit test
 
 ## Contributing
 

@@ -5,7 +5,7 @@ Python library to solve ordinary differential equations (ODEs). The first versio
 ## Installation
 
 ```bash
-$ pip install pyode
+$ pip install
 ```
 
 ## Usage
